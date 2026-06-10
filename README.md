@@ -18,7 +18,7 @@ Analytics Engineer with a Master's in Data Science from the University of Britis
 
 - 🔭 Building ETL pipelines, KPI dashboards, and demand/forecasting models for complex retail &amp; workforce operations
 - 🧠 Interested in data engineering, ML pipelines, NLP, and risk/forecasting analytics
-- 🎓 M.B.A. (Business Analytics) in progress · M.S. Data Science (UBC) · B.S. Financial Engineering
+- 🎓 M.S. (Business Analytics) in progress · M.S. Data Science (UBC) · B.S. Financial Engineering
 - 🌐 Bilingual: English &amp; Mandarin
 
 ---
